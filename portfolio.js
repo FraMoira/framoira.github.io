@@ -96,11 +96,11 @@ const summarySection = `
 
     <hr>
 
-    <div class="sm-txt-caps">FOR FUN</div>
+    <div class="sm-txt-caps">OVER THE YEARS</div>
     <div class="col-sm-12 main-tab">
-      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Design')">design</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Dance')">dance</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Drawing')">drawing</button>
+      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Venture')">ven</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">philphys</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Alps (Oxfordshire)')">places</button>
     </div>
 
     <div id="Venture" class="main-tabcontent">
