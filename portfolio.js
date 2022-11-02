@@ -44,6 +44,22 @@ PUBS = [
   },
 ];
 
+VEN = [
+  {
+    image: "./media/all/drawings/white_rabbit.png",
+    title: "Title",
+    description: "Illustration series",
+  },
+]
+
+PHILPHYS = [
+  {
+    image: "./media/all/drawings/white_rabbit.png",
+    title: "Title",
+    description: "Illustration series",
+  },
+]
+
 PLACES = [
   {
     image: "./media/all/drawings/white_rabbit.png",
@@ -80,14 +96,14 @@ const summarySection = `
 
     <hr>
 
-    <div class="sm-txt-caps">Over the Years</div>
+    <div class="sm-txt-caps">FOR FUN</div>
     <div class="col-sm-12 main-tab">
-      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Ventures')">ventures</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">philphys</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Places')">places</button>
+      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Design')">design</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Dance')">dance</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Drawing')">drawing</button>
     </div>
 
-    <div id="Ventures" class="main-tabcontent">
+    <div id="Venture" class="main-tabcontent">
       ${VEN.map(pub => `
           <div class="row">
             <div class="col-sm-4 pub_img"><img src="${pub.image}"></div>
@@ -100,7 +116,7 @@ const summarySection = `
           </div>
       `).join("")}
     </div>
-    
+
     <div id="Philosophy and Physics" class="main-tabcontent">
       ${PHILPHYS.map(pub => `
           <div class="row">
@@ -115,7 +131,7 @@ const summarySection = `
       `).join("")}
     </div>
 
-    <div id="Places" class="main-tabcontent">
+    <div id="Alps (Oxfordshire)" class="main-tabcontent">
       ${PLACES.map(pub => `
           <div class="row">
             <div class="col-sm-4 pub_img"><img src="${pub.image}"></div>
