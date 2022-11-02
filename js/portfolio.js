@@ -58,13 +58,18 @@ PHILPHYS = [
     title: "Symmetries and Conserved Quantities",
     description: "Considerations on variational and dynamical symmetries",
   },
+  {
+    image: "./media/img/emmy.jpg",
+    title: "A Moral Solace",
+    description: "Science and ethic in times of violence",
+  },
 ]
 
 PLACES = [
   {
-    image: "./media/all/drawings/white_rabbit.png",
-    title: "Title",
-    description: "Illustration series",
+    image: "./media/img/grigna.png",
+    title: "Alps",
+    description: "Grigna Meridionale",
   },
 ]
 
