@@ -44,7 +44,7 @@ PUBS = [
   },
 ];
 
-DRAW = [
+PLACES = [
   {
     image: "./media/all/drawings/white_rabbit.png",
     title: "Title",
@@ -80,15 +80,43 @@ const summarySection = `
 
     <hr>
 
-    <div class="sm-txt-caps">FOR FUN</div>
+    <div class="sm-txt-caps">Over the Years</div>
     <div class="col-sm-12 main-tab">
-      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Design')">design</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Dance')">dance</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Drawing')">drawing</button>
+      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Ventures')">ventures</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">philphys</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Places')">places</button>
     </div>
 
-    <div id="Drawing" class="main-tabcontent">
-      ${DRAW.map(pub => `
+    <div id="Ventures" class="main-tabcontent">
+      ${VEN.map(pub => `
+          <div class="row">
+            <div class="col-sm-4 pub_img"><img src="${pub.image}"></div>
+            <div class="col-sm-8">
+              <div>
+                <span class="active xs-sm-txt">${pub.title}</span><br>
+                <span class="xs-txt">${pub.description}</span>
+              </div>
+            </div>
+          </div>
+      `).join("")}
+    </div>
+    
+    <div id="Philosophy and Physics" class="main-tabcontent">
+      ${PHILPHYS.map(pub => `
+          <div class="row">
+            <div class="col-sm-4 pub_img"><img src="${pub.image}"></div>
+            <div class="col-sm-8">
+              <div>
+                <span class="active xs-sm-txt">${pub.title}</span><br>
+                <span class="xs-txt">${pub.description}</span>
+              </div>
+            </div>
+          </div>
+      `).join("")}
+    </div>
+
+    <div id="Places" class="main-tabcontent">
+      ${PLACES.map(pub => `
           <div class="row">
             <div class="col-sm-4 pub_img"><img src="${pub.image}"></div>
             <div class="col-sm-8">
