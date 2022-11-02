@@ -54,9 +54,9 @@ VEN = [
 
 PHILPHYS = [
   {
-    image: "./media/all/drawings/white_rabbit.png",
-    title: "Title",
-    description: "Illustration series",
+    image: "./media/img/NCurrent.png",
+    title: "Symmetries and Conserved Quantities",
+    description: "Considerations on variational and dynamical symmetries",
   },
 ]
 
