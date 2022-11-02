@@ -81,6 +81,11 @@ PLACES = [
     title: "Alps",
     description: "Grigna Meridionale",
   },
+  {
+    image: "./media/img/capenorth.png",
+    title: "Norway",
+    description: "Nordkapp",
+  },
 ]
 
 // Compile portfolio sections & items ===============================
