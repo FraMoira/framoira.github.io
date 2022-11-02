@@ -86,6 +86,11 @@ PLACES = [
     title: "Norway",
     description: "Nordkapp",
   },
+  {
+    image: "./media/img/oxford.png",
+    title: "Oxfordshire",
+    description: "South Park",
+  },
 ]
 
 // Compile portfolio sections & items ===============================
