@@ -98,9 +98,9 @@ const summarySection = `
 
     <div class="sm-txt-caps">OVER THE YEARS</div>
     <div class="col-sm-12 main-tab">
-      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Venture')">ven</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">philphys</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Alps (Oxfordshire)')">places</button>
+      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Venture')">Venture</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">Philosophy and Physics</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Alps (Oxfordshire)')">Places</button>
     </div>
 
     <div id="Venture" class="main-tabcontent">
