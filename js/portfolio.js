@@ -63,6 +63,16 @@ PHILPHYS = [
     title: "A Moral Solace",
     description: "Science and ethic in times of violence",
   },
+  {
+    image: "./media/img/einstein.png",
+    title: "Chronogeometry of the metric field",
+    description: "Interpretations of the dynamical field in general relativity",
+  },
+  {
+    image: "./media/img/kant.png",
+    title: "The Systematic Unit of Nature",
+    description: "Empirical laws as a challenge for Kantianism",
+  },
 ]
 
 PLACES = [
