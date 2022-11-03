@@ -233,6 +233,12 @@ function openTab(evt, sectionName) {
   } else {
     document.getElementById("design-btn").className += " active";
   }
+
+  // Open the first button by default
+<script type="text/javascript">
+	document.getElementById("design-btn").click();
+</script>	
+	
 }
 
 // Adds created portfolio items to the document
