@@ -284,7 +284,7 @@ a, a:hover, a:active, a:visited, a:focus {
 }
 
 /* ITEMS ------------------------------------------------------ */
-.items img {
+/*.items img {
     width: 100%;
     opacity: 1;
     /*margin-bottom: 40px;*/
@@ -295,6 +295,16 @@ a, a:hover, a:active, a:visited, a:focus {
 
 .items img:hover {
     opacity: 0.3;
+}*/
+
+.items img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.items img:hover {
+    filter: none;
+    -webkit-filter: grayscale(0);
 }
 
 .items-row {
