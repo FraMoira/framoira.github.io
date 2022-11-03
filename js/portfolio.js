@@ -132,12 +132,11 @@ const summarySection = `
     </div>
 
     <hr>
-
     <div class="sm-txt-caps">OVER THE YEARS</div>
     <div class="col-sm-12 main-tab">
       <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Venture')">Venture</button>
       <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">Philosophy and Physics</button>
-      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Alps (Oxfordshire)')">Places</button>
+      <button class="main-tablinks sm-txt" onclick="openTab(event, 'Places')">Places</button>
     </div>
 
     <div id="Venture" class="main-tabcontent">
@@ -168,7 +167,7 @@ const summarySection = `
       `).join("")}
     </div>
 
-    <div id="Alps (Oxfordshire)" class="main-tabcontent">
+    <div id="Places" class="main-tabcontent">
       ${PLACES.map(pub => `
           <div class="row">
             <div class="col-sm-4 pub_img"><img src="${pub.image}"></div>
