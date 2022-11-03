@@ -46,9 +46,9 @@ PUBS = [
 
 VEN = [
   {
-    image: "./media/all/drawings/white_rabbit.png",
-    title: "Title",
-    description: "Illustration series",
+    image: "./media/img/lightpoint.png",
+    title: "The Breadth of Human Experience",
+    description: "One startup in cancer surgery",
   },
 ]
 
