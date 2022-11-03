@@ -109,7 +109,7 @@ ENDING = `
 		</i>
 </span>
 
-;
+`;
 
 // Compile portfolio sections & items ===============================
 const summarySection = `
