@@ -50,7 +50,7 @@ VEN = [
     description: "One startup in cancer surgery",
   },
   {
-    image: "./media/img/lightpoint.png",
+    image: "./media/img/cd200.png",
     title: "The Solitude of a Single Asset",
     description: "Short story of an exit for a CD200 fusion protein",
   }
@@ -108,7 +108,6 @@ ENDING = `
  			~ Divina Commedia III, XIII<br>
 		</i>
 </span>
-`;
 
 // Compile portfolio sections & items ===============================
 const summarySection = `
