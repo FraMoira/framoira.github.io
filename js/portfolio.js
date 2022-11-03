@@ -49,6 +49,11 @@ VEN = [
     title: "The Breadth of Human Experience",
     description: "One startup in cancer surgery",
   },
+  {
+    image: "./media/img/lightpoint.png",
+    title: "The Solitude of a Single Asset",
+    description: "Short story of an exit for a CD200 fusion protein",
+  }
 ]
 
 PHILPHYS = [
@@ -71,7 +76,7 @@ PHILPHYS = [
     image: "./media/img/kant.jpeg",
     title: "The Systematic Unity of Nature",
     description: "Empirical laws as a challenge for Kantianism",
-  },
+  }
 ]
 
 PLACES = [
