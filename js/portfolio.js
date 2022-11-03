@@ -1,7 +1,7 @@
 SUMMARY = `
 Something something<br><br>
 
-<span class="xs-txt"><i>Research interests:</i></span> biotechnology, drug development, quantum computing, climate, Chinese art, Italian poetry.<br><br>
+<span class="xs-txt"><i>Research interests:</i> biotechnology, drug development, quantum computing, climate, Chinese art, Italian poetry.</span><br><br>
 
 
 <span class="xs-txt">
@@ -113,7 +113,7 @@ const summarySection = `
   
     <hr>
 
-    <div class="sm-txt-caps">PUBLICATIONS</div>
+    <div class="sm-txt-caps">A TREAT FOR THE EYES</div>
     <div id="Publications" class="">
       <br>
       ${PUBS.map(pub => `
