@@ -7,33 +7,30 @@ Something something<br><br>
 
 UPDATES = [
   {
-    date: "August 2022",
+    date: "FARO",
     text: "Text",
   },
   {
-    date: "May 2022",
+    date: "PROMETHEUX",
     text: "Text",
   },
   {
-    date: "March 2022",
+    date: "IMMUNAGEN",
     text: "Text",
   },
   {
-    date: "November 2021",
+    date: "OXFORD TECHNOLOGY",
     text: "Text",
   },
   {
-    date: "September 2021",
+    date: "THE MISSION FUND",
     text: "Text",
   },
   {
-    date: "June 2021",
+    date: "ITALIANS IN VC",
     text: "Text",
   },
-  {
-    date: "June 2021",
-    text: "Text",
-  },
+
 ];
 
 PUBS = [
