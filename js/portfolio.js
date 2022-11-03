@@ -73,7 +73,7 @@ PHILPHYS = [
     description: "Interpretations of the dynamical field in general relativity",
   },
   {
-    image: "./media/img/kant.jpeg",
+    image: "./media/img/kant.jpg",
     title: "The Systematic Unity of Nature",
     description: "Empirical laws as a challenge for Kantianism",
   }
