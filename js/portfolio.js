@@ -198,7 +198,7 @@ const summarySection = `
 
 const updateSection = `
 <div class="items items-row">
-  <div class="sm-txt-caps">RECENT HIGHLIGHTS</div>
+  <div class="sm-txt-caps">SOME HIGHLIGHTS</div>
   ${UPDATES.map( update => `
     <div style="margin-bottom:5px">
       <span class="xs-txt-caps">${update.date}<br></span>
