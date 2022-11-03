@@ -288,7 +288,7 @@ a, a:hover, a:active, a:visited, a:focus {
 .items img {
       filter: gray;
       -webkit-filter: grayscale(1);
-      -webkit-transition: all .8s ease-in-out;  
+      -webkit-transition: all .4s ease-in-out;  
 }
 
 .items img:hover {
