@@ -48,10 +48,11 @@ UPDATES = [
 
 PUBS = [
   {
-    image: "./media/all/end_user_auditing.png",
-    title: "Title",
-    authors: "Author",
-    doi: "DOI"
+    image: "./media/img/lion.png",
+    title: "Limestone Carving of a Lion",
+    authors: "Early Tang dynasty, 6th - 7th century",
+    venue: "© Eskenazi, London",
+    doi: "https://www.eskenazi.co.uk/en-gb/exhibitions/tang-ceramics,-metalwork-and-sculpture/objects/limestone-carving-of-a-lion"
   },
 ];
 
