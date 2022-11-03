@@ -245,4 +245,4 @@ function createPortfolioItems() {
 }
 
 createPortfolioItems();
-openTab(null, "Design");
+openTab(null, "Venture");
