@@ -140,7 +140,7 @@ const summarySection = `
     <hr>
     <div class="sm-txt-caps">OVER THE YEARS</div>
     <div class="col-sm-12 main-tab">
-      <button id="design-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Venture')">Venture</button>
+      <button id="Venture-btn" class="main-tablinks sm-txt" onclick="openTab(event, 'Venture')">Venture</button>
       <button class="main-tablinks sm-txt" onclick="openTab(event, 'Philosophy and Physics')">Philosophy and Physics</button>
       <button class="main-tablinks sm-txt" onclick="openTab(event, 'Places')">Places</button>
     </div>
@@ -231,11 +231,10 @@ function openTab(evt, sectionName) {
   if (evt !== null) {
     evt.currentTarget.className += " active";
   } else {
-    document.getElementById("design-btn").className += " active";
+    document.getElementById("Venture-btn").className += " active";
   }
 
   // Open the first button by default
-   document.getElementById("design-btn").click();
 	
 }
 
