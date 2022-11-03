@@ -109,6 +109,8 @@ ENDING = `
 		</i>
 </span>
 
+;
+
 // Compile portfolio sections & items ===============================
 const summarySection = `
   <div class="items items-row">
