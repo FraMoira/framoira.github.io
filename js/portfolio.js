@@ -235,9 +235,7 @@ function openTab(evt, sectionName) {
   }
 
   // Open the first button by default
-<script type="text/javascript">
-	document.getElementById("design-btn").click();
-</script>	
+   document.getElementById("design-btn").click();
 	
 }
 
