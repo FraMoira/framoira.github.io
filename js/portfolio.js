@@ -1,7 +1,7 @@
 SUMMARY = `
 Something something<br><br>
 
-<span class="xs-txt"><i>Research interests:</i> biotechnology, drug development, quantum computing, climate.</span><br><br>
+<span class="xs-txt"><i>Research interests:</i> biotechnology, drug development, quantum computing, climate.</span>
 
 `;
 
