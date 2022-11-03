@@ -3,16 +3,6 @@ Something something<br><br>
 
 <span class="xs-txt"><i>Research interests:</i> biotechnology, drug development, quantum computing, climate, Chinese art, Italian poetry.</span><br><br>
 
-
-<span class="xs-txt">
-	Then there is that one passage where Dante talks about science and innovation:<br> <br>
-		<i>		
-			«For I have seen all winter long the thorn<br>
- 			First show itself intractable and fierce,<br>
- 			And after bear the rose upon its top».<br><br>
- 			~ Divina Commedia III, XIII<br>
-		</i>
-</span>
 `;
 
 UPDATES = [
