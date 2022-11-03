@@ -1,6 +1,9 @@
 SUMMARY = `
 Something something<br><br>
 
+<span class="xs-txt"><i>Research interests:</i></span> biotechnology, drug development, quantum computing, climate, Chinese art, Italian poetry.<br><br>
+
+
 <span class="xs-txt">
 	Then there is that one passage where Dante talks about science and innovation:<br> <br>
 		<i>		
@@ -10,8 +13,6 @@ Something something<br><br>
  			~ Divina Commedia III, XIII<br>
 		</i>
 </span>
-
-<span class="xs-txt"><i>Research interests: </i></span>
 `;
 
 UPDATES = [
