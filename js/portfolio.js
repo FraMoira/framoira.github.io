@@ -189,7 +189,6 @@ const summarySection = `
 
     <hr>
 
-  <div class="items items-row">
     <div class="sm-txt" style="margin-bottom:20px">
         ${ENDING}
     </div>
