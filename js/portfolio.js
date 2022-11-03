@@ -82,7 +82,7 @@ PHILPHYS = [
   },
   {
     image: "./media/img/kant.jpeg",
-    title: "The Systematic Unit of Nature",
+    title: "The Systematic Unity of Nature",
     description: "Empirical laws as a challenge for Kantianism",
   },
 ]
@@ -104,6 +104,19 @@ PLACES = [
     description: "South Park",
   },
 ]
+
+ENDING = `
+
+<span class="xs-txt">
+	Then there is that one passage where Dante talks about science and innovation:<br> <br>
+		<i>		
+			«For I have seen all winter long the thorn<br>
+ 			First show itself intractable and fierce,<br>
+ 			And after bear the rose upon its top».<br><br>
+ 			~ Divina Commedia III, XIII<br>
+		</i>
+</span>
+`;
 
 // Compile portfolio sections & items ===============================
 const summarySection = `
@@ -183,6 +196,13 @@ const summarySection = `
     </div>
 
     <hr>
+
+  <div class="items items-row">
+    <div class="sm-txt" style="margin-bottom:20px">
+        ${ENDING}
+    </div>
+
+      <hr>
   </div>
 `;
 
