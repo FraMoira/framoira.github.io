@@ -1,16 +1,14 @@
 SUMMARY = `
 Something something<br><br>
 
-Then there is that one passage where Dante talks about science and innovation: 
-
 <span class="xs-txt">
-	<i>
-		«For I have seen all winter long the thorn
- 		First show itself intractable and fierce,
- 		And after bear the rose upon its top».
-
- 		~ Divina Commedia III, XIII
-	</i>
+	Then there is that one passage where Dante talks about science and innovation:<br> <br>
+		<i>		
+			«For I have seen all winter long the thorn<br>
+ 			First show itself intractable and fierce,<br>
+ 			And after bear the rose upon its top».<br><br>
+ 			~ Divina Commedia III, XIII<br>
+		</i>
 </span>
 
 <span class="xs-txt"><i>Research interests: </i></span>
