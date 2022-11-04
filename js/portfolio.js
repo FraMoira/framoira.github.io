@@ -120,7 +120,7 @@ const summarySection = `
   
     <hr>
 
-    <div class="sm-txt-caps">A TREAT FOR THE EYES</div>
+    <div class="sm-txt-caps">SOME SHAPE OF BEAUTY</div>
     <div id="Publications" class="">
       <br>
       ${PUBS.map(pub => `
