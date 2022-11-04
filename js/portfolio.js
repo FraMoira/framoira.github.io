@@ -1,34 +1,39 @@
 SUMMARY = `
 Something something<br><br>
 
+At the moment, I am working with Oxford Technology, where we invest in those brilliant scientists who know that, when it comes to building the future, the lab is only the first part of the story.<br>
+
+I also chose to include in the sidebar some projects I am involved with in various capacities. 
+Some of them for work and fun, some just for fun. All of them because we always seek out those new trails being set ablaze.<br>
+
 <span class="xs-txt"><i>Research interests:</i> biotechnology, drug development, quantum computing, climate.</span>
 
 `;
 
 UPDATES = [
   {
-    date: "FARO",
-    text: "Text",
-  },
-  {
-    date: "PROMETHEUX",
-    text: "Text",
-  },
-  {
-    date: "IMMUNAGEN",
-    text: "Text",
-  },
-  {
     date: "OXFORD TECHNOLOGY",
-    text: "Text",
+    text: "Investing in bleeding-edge science since venture capital was not a thing yet.",
   },
   {
     date: "THE MISSION FUND",
-    text: "Text",
+    text: "Investing in experiments to discover transformative therapeutics.",
+  },
+  {
+    date: "FARO",
+    text: "The first full-stack photonic quantum computing company.",
+  },
+  {
+    date: "PROMETHEUX",
+    text: "Building an automated reasoner for big data and knowledge graphs.",
+  },
+  {
+    date: "IMMUNAGEN",
+    text: "Engineering a synthetic immune system to develop monoclonal antibodies.",
   },
   {
     date: "ITALIANS IN VC",
-    text: "Text",
+    text: "Arguably the best national community in VC.",
   },
 
 ];
